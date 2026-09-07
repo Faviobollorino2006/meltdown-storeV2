@@ -778,6 +778,14 @@ const productsData = [
         imagen: "assets/medias-telarana.jpg",
         agotado: true
     },
+
+    {
+        nombre: "Medias liguero",
+        precio: "$7.00",
+        categoria: "accesorios",
+        imagen: "assets/medias-liguero.jpg",
+        agotado: true
+    },
     {
         nombre: "Medias Araña",
         precio: "$7.00",
