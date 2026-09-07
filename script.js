@@ -492,6 +492,14 @@ const productsData = [
         agotado: true
     },
 
+    {
+        nombre: "Goth rose",
+        precio: "$5.00",
+        categoria: "accesorios",
+        imagen: "assets/goth-rose.jpg",
+        agotado: true
+    },
+
     // --- 6.00$ ---
     {
         nombre: "Armour Ring",
