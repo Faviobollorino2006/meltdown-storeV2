@@ -8,6 +8,14 @@ const productsData = [
         agotado: false
     },
 
+    {
+        nombre: "Ganchos de cabello pentagrama",
+        precio: "$0.50",
+        categoria: "accesorios",
+        imagen: "assets/ganchos-de-cabello-pentagrama.jpg",
+        agotado: false
+    },
+
     // --- 2.00$ ---
     {
         nombre: "Ganchitos de Hueso",
@@ -39,6 +47,24 @@ const productsData = [
         imagen: "assets/anillos-talla-ajustables.jpg",
         agotado: false
     },
+
+    {
+        nombre: "Anillos tachuelas",
+        precio: "$2.50",
+        categoria: "anillos",
+        imagen: "assets/anillos-tachuelas.jpg",
+        agotado: false
+    },
+
+    {
+        nombre: "Anillos garra",
+        precio: "$2.50",
+        categoria: "anillos",
+        imagen: "assets/anillos-garra.jpg",
+        agotado: false
+    },
+
+
 
     // --- 4.00$ ---
     {
@@ -88,6 +114,22 @@ const productsData = [
         precio: "$4.00",
         categoria: "accesorios",
         imagen: "assets/crow-heads-aretes.jpg",
+        agotado: false
+    },
+
+    {
+        nombre: "Spike heart (aretes)",
+        precio: "$4.00",
+        categoria: "accesorios",
+        imagen: "assets/spike-heart.jpg",
+        agotado: false
+    },
+
+    {
+        nombre: "Crown cross (aretes)",
+        precio: "$4.00",
+        categoria: "accesorios",
+        imagen: "assets/crown-cross.jpg",
         agotado: false
     },
     {
@@ -167,6 +209,286 @@ const productsData = [
         precio: "$5.00",
         categoria: "accesorios",
         imagen: "assets/stars-collar.jpg",
+        agotado: true
+    },
+
+    {
+        nombre: "Black wooden cross",
+        precio: "$5.00",
+        categoria: "accesorios",
+        imagen: "assets/black-wooden-cross.jpg",
+        agotado: true
+    },
+
+    {
+        nombre: "White wooden cross",
+        precio: "$5.00",
+        categoria: "accesorios",
+        imagen: "assets/white-wooden-cross.jpg",
+        agotado: true
+    },
+
+    {
+        nombre: "Blutterfly",
+        precio: "$5.00",
+        categoria: "accesorios",
+        imagen: "assets/blutterfly.jpg",
+        agotado: true
+    },
+
+    {
+        nombre: "Black spider",
+        precio: "$5.00",
+        categoria: "accesorios",
+        imagen: "assets/black-spider.jpg",
+        agotado: true
+    },
+
+    {
+        nombre: "Card (collar)",
+        precio: "$5.00",
+        categoria: "accesorios",
+        imagen: "assets/card.jpg",
+        agotado: true
+    },
+
+    {
+        nombre: "Cloudy cross",
+        precio: "$5.00",
+        categoria: "accesorios",
+        imagen: "assets/cloudy-cross.jpg",
+        agotado: true
+    },
+
+    {
+        nombre: "Death beetle",
+        precio: "$5.00",
+        categoria: "accesorios",
+        imagen: "assets/death-beetle.jpg",
+        agotado: true
+    },
+
+    {
+        nombre: "Elegant cross",
+        precio: "$5.00",
+        categoria: "accesorios",
+        imagen: "assets/elegant-cross.jpg",
+        agotado: true
+    },
+
+    {
+        nombre: "Four winged moth",
+        precio: "$5.00",
+        categoria: "accesorios",
+        imagen: "assets/four-winged-moth.jpg",
+        agotado: true
+    },
+
+    {
+        nombre: "Goth heart cross",
+        precio: "$5.00",
+        categoria: "accesorios",
+        imagen: "assets/goth-heart-cross.jpg",
+        agotado: true
+    },
+
+    {
+        nombre: "Hippie moth",
+        precio: "$5.00",
+        categoria: "accesorios",
+        imagen: "assets/hippie-moth.jpg",
+        agotado: true
+    },
+
+    {
+        nombre: "Neo chain",
+        precio: "$5.00",
+        categoria: "accesorios",
+        imagen: "assets/neo-chain.jpg",
+        agotado: true
+    },
+
+    {
+        nombre: "Razor",
+        precio: "$5.00",
+        categoria: "accesorios",
+        imagen: "assets/razor.jpg",
+        agotado: true
+    },
+
+    {
+        nombre: "Red cross",
+        precio: "$5.00",
+        categoria: "accesorios",
+        imagen: "assets/red-cross.jpg",
+        agotado: true
+    },
+
+    {
+        nombre: "Red moth",
+        precio: "$5.00",
+        categoria: "accesorios",
+        imagen: "assets/red-moth.jpg",
+        agotado: true
+    },
+
+    {
+        nombre: "Red star cross",
+        precio: "$5.00",
+        categoria: "accesorios",
+        imagen: "assets/red-star-cross.jpg",
+        agotado: true
+    },
+
+    {
+        nombre: "Rosario ankh",
+        precio: "$5.00",
+        categoria: "accesorios",
+        imagen: "assets/rosario-ankh.jpg",
+        agotado: true
+    },
+
+    {
+        nombre: "Shine",
+        precio: "$5.00",
+        categoria: "accesorios",
+        imagen: "assets/shine.jpg",
+        agotado: true
+    },
+
+    {
+        nombre: "Silver moth",
+        precio: "$5.00",
+        categoria: "accesorios",
+        imagen: "assets/silver-moth.jpg",
+        agotado: true
+    },
+
+    {
+        nombre: "Skeleton crucifix",
+        precio: "$5.00",
+        categoria: "accesorios",
+        imagen: "assets/skeleton-crucifix.jpg",
+        agotado: true
+    },
+
+    {
+        nombre: "Skeleton key",
+        precio: "$5.00",
+        categoria: "accesorios",
+        imagen: "assets/skeleton-key.jpg",
+        agotado: true
+    },
+
+    {
+        nombre: "Snake",
+        precio: "$5.00",
+        categoria: "accesorios",
+        imagen: "assets/snake.jpg",
+        agotado: true
+    },
+
+    {
+        nombre: "Spider star",
+        precio: "$5.00",
+        categoria: "accesorios",
+        imagen: "assets/spider-star.jpg",
+        agotado: true
+    },
+
+    {
+        nombre: "Stoned cross",
+        precio: "$5.00",
+        categoria: "accesorios",
+        imagen: "assets/stoned-cross.jpg",
+        agotado: true
+    },
+
+    {
+        nombre: "Winged bat dagger",
+        precio: "$5.00",
+        categoria: "accesorios",
+        imagen: "assets/winged-bat-dagger.jpg",
+        agotado: true
+    },
+
+    {
+        nombre: "Winged cross",
+        precio: "$5.00",
+        categoria: "accesorios",
+        imagen: "assets/winged-cross.jpg",
+        agotado: true
+    },
+
+    {
+        nombre: "Angelic cross",
+        precio: "$5.00",
+        categoria: "accesorios",
+        imagen: "assets/angelic-cross.jpg",
+        agotado: true
+    },
+
+    {
+        nombre: "Angelic key",
+        precio: "$5.00",
+        categoria: "accesorios",
+        imagen: "assets/angelic-key.jpg",
+        agotado: true
+    },
+
+    {
+        nombre: " Angel wing",
+        precio: "$5.00",
+        categoria: "accesorios",
+        imagen: "assets/angel-wing.jpg",
+        agotado: true
+    },
+
+    {
+        nombre: "Baphomet pentagram",
+        precio: "$5.00",
+        categoria: "accesorios",
+        imagen: "assets/baphomet-pentagram.jpg",
+        agotado: true
+    },
+
+    {
+        nombre: "Bat heart",
+        precio: "$5.00",
+        categoria: "accesorios",
+        imagen: "assets/bat-heart.jpg",
+        agotado: true
+    },
+
+    {
+        nombre: "Bat necklace",
+        precio: "$5.00",
+        categoria: "accesorios",
+        imagen: "assets/bat-necklace.jpg",
+        agotado: true
+    },
+
+    {
+        nombre: "Black coffin",
+        precio: "$5.00",
+        categoria: "accesorios",
+        imagen: "assets/black-coffin.jpg",
+        agotado: true
+    },
+
+    {
+        nombre: "Black cross",
+        precio: "$5.00",
+        categoria: "accesorios",
+        imagen: "assets/black-cross.jpg",
+        agotado: true
+    },
+
+    {
+        nombre: "Black gem cross",
+        precio: "$5.00",
+        categoria: "accesorios",
+        imagen: "assets/black-gem-cross.jpg",
         agotado: true
     },
 
@@ -425,6 +747,22 @@ const productsData = [
         imagen: "assets/bucaneras-rayas-blanco-negro.jpg",
         agotado: true
     },
+
+    {
+        nombre: "Calentadoras negras",
+        precio: "$7.00",
+        categoria: "accesorios",
+        imagen: "assets/calentadoras-negras.jpg",
+        agotado: true
+    },
+
+    {
+        nombre: "Calentadoras blancas",
+        precio: "$7.00",
+        categoria: "accesorios",
+        imagen: "assets/calentadoras-blancas.jpg",
+        agotado: true
+    },
     {
         nombre: "Medias Telaraña",
         precio: "$7.00",
@@ -454,6 +792,14 @@ const productsData = [
         categoria: "accesorios",
         imagen: "assets/pulseras-1-hilera.jpg",
         agotado: false
+    },
+
+    {
+        nombre: "Pulsera corazon",
+        precio: "$8.00",
+        categoria: "accesorios",
+        imagen: "assets/pulsera-corazon.jpg",
+        agotado: true
     },
     {
         nombre: "Tachas Blanco y Negro",
@@ -592,6 +938,22 @@ const productsData = [
         agotado: false
     },
 
+    {
+        nombre: "Correa hebillas de cruz",
+        precio: "$15.00",
+        categoria: "accesorios",
+        imagen: "assets/correa-hebilla-de-cruz.jpg",
+        agotado: false
+    },
+
+    {
+        nombre: "Correa de puas",
+        precio: "$15.00",
+        categoria: "accesorios",
+        imagen: "assets/correa-de-puas.jpg",
+        agotado: false
+    },
+
     // --- 17.00$ (Franelas / Ropa) ---
     {
         nombre: "Franela Slipknot (Talla S y XL)",
@@ -713,6 +1075,31 @@ const productsData = [
         precio: "$20.00",
         categoria: "accesorios",
         imagen: "assets/gorro-ushanka.jpg",
+        agotado: false
+    },
+
+    {
+        nombre: "Gorro Ushanka (negro)",
+        precio: "$20.00",
+        categoria: "accesorios",
+        imagen: "assets/ushanka-negro.jpg",
+        agotado: false
+    },
+
+
+    {
+        nombre: "Beanie Jeff the killer",
+        precio: "$20.00",
+        categoria: "accesorios",
+        imagen: "assets/beanie-jeff-the-killer.jpg",
+        agotado: false
+    },
+
+    {
+        nombre: "Beanie Skeleton",
+        precio: "$20.00",
+        categoria: "accesorios",
+        imagen: "assets/beanie-skeleton.jpg",
         agotado: false
     }
 ];
