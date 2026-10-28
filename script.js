@@ -39,12 +39,44 @@ const productsData = [
         agotado: false
     },
 
+    {
+        nombre: "Ganchitos cuchillos",
+        precio: "$2.00",
+        categoria: "accesorios",
+        imagen: "assets/ganchitos-cuchillos.jpg",
+        agotado: false
+    },
+
+    {
+        nombre: "Gancheta ghostface",
+        precio: "$2.00",
+        categoria: "accesorios",
+        imagen: "assets/gancheta-ghostface.jpg",
+        agotado: false
+    },
+
+    {
+        nombre: "Mano esqueleto",
+        precio: "$2.00",
+        categoria: "accesorios",
+        imagen: "assets/mano-esqueleto.jpg",
+        agotado: false
+    },
+
     // --- 2.50$ ---
     {
         nombre: "Anillos por talla y ajustables",
         precio: "$2.50",
         categoria: "anillos",
         imagen: "assets/anillos-talla-ajustables.jpg",
+        agotado: false
+    },
+
+    {
+        nombre: "Anillos por talla y ajustables 2",
+        precio: "$2.50",
+        categoria: "anillos",
+        imagen: "assets/anillos-talla-ajustable-2.jpg",
         agotado: false
     },
 
@@ -61,6 +93,22 @@ const productsData = [
         precio: "$2.50",
         categoria: "anillos",
         imagen: "assets/anillos-garra.jpg",
+        agotado: false
+    },
+
+    {
+        nombre: "Anillos ataud",
+        precio: "$2.50",
+        categoria: "anillos",
+        imagen: "assets/anillos-ataud.jpg",
+        agotado: false
+    },
+
+    {
+        nombre: "Anillos calavera",
+        precio: "$2.50",
+        categoria: "anillos",
+        imagen: "assets/anillos-calavera.jpg",
         agotado: false
     },
 
@@ -500,6 +548,96 @@ const productsData = [
         agotado: true
     },
 
+    {
+        nombre: "Red bat",
+        precio: "$5.00",
+        categoria: "accesorios",
+        imagen: "assets/red-bat.jpg",
+        agotado: true
+    },
+
+    {
+        nombre: "Red gem cross",
+        precio: "$5.00",
+        categoria: "accesorios",
+        imagen: "assets/red-gem-cross.jpg",
+        agotado: true
+    },
+
+    {
+        nombre: "Red owl",
+        precio: "$5.00",
+        categoria: "accesorios",
+        imagen: "assets/red-owl.jpg",
+        agotado: true
+    },
+
+    {
+        nombre: "Rosario ankh 2",
+        precio: "$5.00",
+        categoria: "accesorios",
+        imagen: "assets/rosario-ankh-2.jpg",
+        agotado: true
+    },
+
+    {
+        nombre: "Rosario cruz",
+        precio: "$5.00",
+        categoria: "accesorios",
+        imagen: "assets/rosario-cruz.jpg",
+        agotado: true
+    },
+
+    {
+        nombre: "Skull ",
+        precio: "$5.00",
+        categoria: "accesorios",
+        imagen: "assets/skull.jpg",
+        agotado: true
+    },
+
+    {
+        nombre: "Black bat ",
+        precio: "$5.00",
+        categoria: "accesorios",
+        imagen: "assets/black-bat.jpg",
+        agotado: true
+    },
+
+    {
+        nombre: "Black void cross ",
+        precio: "$5.00",
+        categoria: "accesorios",
+        imagen: "assets/black-void-cross.jpg",
+        agotado: true
+    },
+
+    {
+        nombre: "Big spider ",
+        precio: "$5.00",
+        categoria: "accesorios",
+        imagen: "assets/big-spider.jpg",
+        agotado: true
+    },
+
+    {
+        nombre: "Elegant skull ",
+        precio: "$5.00",
+        categoria: "accesorios",
+        imagen: "assets/elegant-skull.jpg",
+        agotado: true
+    },
+
+    {
+        nombre: "Drk cross ",
+        precio: "$5.00",
+        categoria: "accesorios",
+        imagen: "assets/drk-cross.jpg",
+        agotado: true
+    },
+
+
+
     // --- 6.00$ ---
     {
         nombre: "Armour Ring",
@@ -757,6 +895,38 @@ const productsData = [
     },
 
     {
+        nombre: "Bucaneras emojis",
+        precio: "$7.00",
+        categoria: "accesorios",
+        imagen: "assets/bucaneras-emojis.jpg",
+        agotado: true
+    },
+
+    {
+        nombre: "Bucaneras morado y negro",
+        precio: "$7.00",
+        categoria: "accesorios",
+        imagen: "assets/bucaneras-morado-negro.jpg",
+        agotado: true
+    },
+
+    {
+        nombre: "Bucaneras negro y blanco",
+        precio: "$7.00",
+        categoria: "accesorios",
+        imagen: "assets/bucaneras-negro-blanco.jpg",
+        agotado: true
+    },
+
+    {
+        nombre: "Bucaneras rojo y negro",
+        precio: "$7.00",
+        categoria: "accesorios",
+        imagen: "assets/bucaneras-rojo-negro.jpg",
+        agotado: true
+    },
+
+    {
         nombre: "Calentadoras negras",
         precio: "$7.00",
         categoria: "accesorios",
@@ -824,6 +994,70 @@ const productsData = [
         imagen: "assets/pulsera-tachas-blanco-negro.jpg",
         agotado: false
     },
+{
+        nombre: "Pulseras 1 Hilera 1",
+        precio: "$8.00",
+        categoria: "accesorios",
+        imagen: "assets/pulseras-1-hileras-1.jpg",
+        agotado: false
+    },
+
+    {
+        nombre: "Pulseras 1 Hilera 2",
+        precio: "$8.00",
+        categoria: "accesorios",
+        imagen: "assets/pulseras-1-hileras-2.jpg",
+        agotado: false
+    },
+
+    {
+        nombre: "Pulseras 2 Hilera 1",
+        precio: "$8.00",
+        categoria: "accesorios",
+        imagen: "assets/pulseras-2-hileras-1.jpg",
+        agotado: false
+    },
+
+    {
+        nombre: "Pulseras 12 Hilera 2",
+        precio: "$8.00",
+        categoria: "accesorios",
+        imagen: "assets/pulseras-12-hileras-2.jpg",
+        agotado: false
+    },
+
+    {
+        nombre: "Pulseras 2 Hilera 3",
+        precio: "$8.00",
+        categoria: "accesorios",
+        imagen: "assets/pulseras-2-hileras-3.jpg",
+        agotado: false
+    },
+
+    {
+        nombre: "Pulseras 2 Hilera 4",
+        precio: "$8.00",
+        categoria: "accesorios",
+        imagen: "assets/pulseras-2-hileras-4.jpg",
+        agotado: false
+    },
+
+    {
+        nombre: "Pulseras 3 Hilera 1",
+        precio: "$8.00",
+        categoria: "accesorios",
+        imagen: "assets/pulseras-3-hileras-1.jpg",
+        agotado: false
+    },
+
+    {
+        nombre: "Pulseras 3 Hilera 2",
+        precio: "$8.00",
+        categoria: "accesorios",
+        imagen: "assets/pulseras-3-hileras-2.jpg",
+        agotado: false
+    },
+
 
     // --- 10.00$ ---
     {
@@ -920,6 +1154,14 @@ const productsData = [
         imagen: "assets/chocker-tachas.jpg",
         agotado: true
     },
+
+    {
+        nombre: "Chocker cerrojo",
+        precio: "$10.00",
+        categoria: "accesorios",
+        imagen: "assets/chocker-cerrojo.jpg",
+        agotado: true
+    },
     {
         nombre: "Cadena Para Pantalón",
         precio: "$10.00",
@@ -927,6 +1169,39 @@ const productsData = [
         imagen: "assets/cadena-pantalon.jpg",
         agotado: false
     },
+
+    {
+        nombre: "Corset",
+        precio: "$10.00",
+        categoria: "accesorios",
+        imagen: "assets/corset.jpg",
+        agotado: false
+    },
+
+    {
+        nombre: "Piercing labios",
+        precio: "$10.00",
+        categoria: "accesorios",
+        imagen: "assets/piercing-labios.jpg",
+        agotado: true
+    },
+
+    {
+        nombre: "Piercing nariz",
+        precio: "$10.00",
+        categoria: "accesorios",
+        imagen: "assets/piercing-nariz.jpg",
+        agotado: true
+    },
+
+    {
+        nombre: "Piercing shin",
+        precio: "$10.00",
+        categoria: "accesorios",
+        imagen: "assets/piercing-shin.jpg",
+        agotado: true
+    },
+
 
     // --- 12.00$ ---
     {
@@ -969,6 +1244,15 @@ const productsData = [
         imagen: "assets/correa-de-puas.jpg",
         agotado: false
     },
+
+    {
+        nombre: "Correa esqueleto",
+        precio: "$15.00",
+        categoria: "accesorios",
+        imagen: "assets/correa-esqueleto.jpg",
+        agotado: false
+    },
+
 
     // --- 17.00$ (Franelas / Ropa) ---
     {
@@ -1117,7 +1401,26 @@ const productsData = [
         categoria: "accesorios",
         imagen: "assets/beanie-skeleton.jpg",
         agotado: false
+    },
+
+    {
+        nombre: "Beanie mordida",
+        precio: "$20.00",
+        categoria: "accesorios",
+        imagen: "assets/beanie-mordida.jpg",
+        agotado: false
+    },
+
+    {
+        nombre: "Beanie araña",
+        precio: "$20.00",
+        categoria: "accesorios",
+        imagen: "assets/beanie-araña.jpg",
+        agotado: false
     }
+
+    
+
 ];
 
 const API_URL = "https://script.google.com/macros/s/AKfycbwrynO8SoPouIa-xhZDIRtxPPklMcKiKmYObTRjAkXbq_gtC8b24tQMmaXVQ45nkLKZtA/exec";
