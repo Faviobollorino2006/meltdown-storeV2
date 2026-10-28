@@ -995,7 +995,7 @@ const productsData = [
         agotado: false
     },
 {
-        nombre: "Pulseras 1 Hilera 1",
+        nombre: "Pulseras 1 Hilera (1)",
         precio: "$8.00",
         categoria: "accesorios",
         imagen: "assets/pulseras-1-hileras-1.jpg",
@@ -1003,7 +1003,7 @@ const productsData = [
     },
 
     {
-        nombre: "Pulseras 1 Hilera 2",
+        nombre: "Pulseras 1 Hilera (2)",
         precio: "$8.00",
         categoria: "accesorios",
         imagen: "assets/pulseras-1-hileras-2.jpg",
@@ -1011,7 +1011,7 @@ const productsData = [
     },
 
     {
-        nombre: "Pulseras 2 Hilera 1",
+        nombre: "Pulseras 2 Hilera (1)",
         precio: "$8.00",
         categoria: "accesorios",
         imagen: "assets/pulseras-2-hileras-1.jpg",
@@ -1019,15 +1019,15 @@ const productsData = [
     },
 
     {
-        nombre: "Pulseras 12 Hilera 2",
+        nombre: "Pulseras 2 Hilera (2)",
         precio: "$8.00",
         categoria: "accesorios",
-        imagen: "assets/pulseras-12-hileras-2.jpg",
+        imagen: "assets/pulseras-2-hileras-2.jpg",
         agotado: false
     },
 
     {
-        nombre: "Pulseras 2 Hilera 3",
+        nombre: "Pulseras 2 Hilera (3)",
         precio: "$8.00",
         categoria: "accesorios",
         imagen: "assets/pulseras-2-hileras-3.jpg",
@@ -1035,7 +1035,7 @@ const productsData = [
     },
 
     {
-        nombre: "Pulseras 2 Hilera 4",
+        nombre: "Pulseras 2 Hilera (4)",
         precio: "$8.00",
         categoria: "accesorios",
         imagen: "assets/pulseras-2-hileras-4.jpg",
@@ -1043,7 +1043,7 @@ const productsData = [
     },
 
     {
-        nombre: "Pulseras 3 Hilera 1",
+        nombre: "Pulseras 3 Hilera (1)",
         precio: "$8.00",
         categoria: "accesorios",
         imagen: "assets/pulseras-3-hileras-1.jpg",
@@ -1051,7 +1051,7 @@ const productsData = [
     },
 
     {
-        nombre: "Pulseras 3 Hilera 2",
+        nombre: "Pulseras 3 Hilera (2)",
         precio: "$8.00",
         categoria: "accesorios",
         imagen: "assets/pulseras-3-hileras-2.jpg",
